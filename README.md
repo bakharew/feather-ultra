@@ -4,7 +4,7 @@ Feather Ultra is a multiplatform, open-source analogue to animated SF Icons. Thi
 
 👉 [See the Demo Here](https://featherultra.com)
 
-👉 [Playground Link](https://rive.app/s/KOhJ8reyfk6SISml_JBFMg/) 
+👉 [Playground Link](https://rive.app/community/6079-11905-feather-ultra-v-011) 
 
 
 ## Features
@@ -21,6 +21,7 @@ Feather Ultra is a multiplatform, open-source analogue to animated SF Icons. Thi
     - Normal
     - Hover
     - White
+    - Yellow
 
 > [!NOTE]
 > Colors should be predefined in editor since rive currently does not support color changing in a runtime
