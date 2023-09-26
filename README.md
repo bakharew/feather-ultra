@@ -24,7 +24,7 @@ Feather Ultra is a multiplatform, open-source analogue to animated SF Icons. Thi
     - Yellow
 
 > [!NOTE]
-> Colors should be predefined in editor since rive currently does not support color changing in a runtime
+> Rive currently does not support programmatically changing colors during runtime. However, we've got you covered! You can utilize predefined color variables and customize them according to your brand colors. Use the super-fast `color_change.ipynb` script to change color variables and get your custom-colored binary without the need to import rev into the editor, and then reexport it as riv (which requires a paid Rive subscription).
 
 - Trigger icon animations (trigger)
     - Hover
@@ -35,7 +35,7 @@ Feather Ultra is a multiplatform, open-source analogue to animated SF Icons. Thi
     - Pulse
 
 ## Icons Availability Status
-- 5 out of 287 icons are currently ready
+- 13 out of 287 icons are currently ready
 
 ## Roadmap
 
@@ -43,7 +43,6 @@ Feather Ultra is a multiplatform, open-source analogue to animated SF Icons. Thi
 - Support changing to any color in runtime (we're waiting for rive to support this, as it currently doesn't support color changes in runtime)
 - Develop quick start guides for popular platforms (contributors needed)
 - Create npm package for easier implementation (contributors needed)
-- Add guide on how to change icon colors in editor
 
 
 ## License
